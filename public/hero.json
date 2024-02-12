@@ -1,0 +1,38 @@
+[
+  {
+    "img": "./images/hero/hero1.webp",
+    "subImg": "./images/hero/sub_hero1.webp"
+  },
+  {
+    "img": "./images/hero/hero2.webp",
+    "subImg": "./images/hero/sub_hero2.webp"
+  },
+  {
+    "img": "./images/hero/hero3.webp",
+    "subImg": "./images/hero/sub_hero3.webp"
+  },
+  {
+    "img": "./images/hero/hero4.webp",
+    "subImg": "./images/hero/sub_hero4.webp"
+  },
+  {
+    "img": "./images/hero/hero5.webp",
+    "subImg": "./images/hero/sub_hero5.webp"
+  },
+  {
+    "img": "./images/hero/hero6.webp",
+    "subImg": "./images/hero/sub_hero6.webp"
+  },
+  {
+    "img": "./images/hero/hero7.webp",
+    "subImg": "./images/hero/sub_hero7.webp"
+  },
+  {
+    "img": "./images/hero/hero8.webp",
+    "subImg": "./images/hero/sub_hero8.webp"
+  },
+  {
+    "img": "./images/hero/hero9.webp",
+    "subImg": "./images/hero/sub_hero9.webp"
+  }
+]

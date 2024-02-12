@@ -1,0 +1,67 @@
+[
+  {
+    "img": "./images/team/member1.webp",
+    "name": "Dewan Md. Abdul Matin",
+    "designation": "General Manager, Sales & Marketing"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "S. M. Alauddin",
+    "designation": "Assistant General Manager, Commercial"
+  },
+  {
+    "img": "./images/team/member1.webp",
+    "name": "Md. Sumon Reza",
+    "designation": "Manager, Factory"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "Mohammad Imran",
+    "designation": "Brand Consultant"
+  },
+  {
+    "img": "./images/team/member1.webp",
+    "name": "Md. Mohiuddin Ahmed",
+    "designation": "Manager, Commercial"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "Md. Golam Sabir",
+    "designation": "Manager, Administration & Company Affairs"
+  },
+  {
+    "img": "./images/team/member1.webp",
+    "name": "Mohammad Taifur Mahmud",
+    "designation": "Assistant Manager, Sales & Marketing"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "Md. Rezaunal Islam",
+    "designation": "Assistant Manager, Accounts"
+  },
+  {
+    "img": "./images/team/member1.webp",
+    "name": "Mahmudur Rahman",
+    "designation": "Assistant Manager, Logistics"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "Adiba Fairooz",
+    "designation": "Senior Executive, Digital Marketing"
+  },
+  {
+    "img": "./images/team/member1.webp",
+    "name": "Mohammad Arif Hossain",
+    "designation": "Commercial Assistant"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "Md. Al-amin Hossain",
+    "designation": "Project Engineer (Civil)"
+  },
+  {
+    "img": "./images/team/member2.webp",
+    "name": "Subimol Roy",
+    "designation": "Officer (VAT Customs)"
+  }
+]
